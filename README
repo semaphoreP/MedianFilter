@@ -1,0 +1,3 @@
+A fast median filter routine written for Pascal/Delphi (and specifically for Terry Herter's MIRA program for reducing and analyzing FITS images).
+
+This median filter routine is designed to work for floats, doubles and other data formats that cannot use a counting sourt algorithm (like traditional JPEGs).
